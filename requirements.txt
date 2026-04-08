@@ -1,0 +1,7 @@
+baostock
+akshare
+pandas
+numpy
+tqdm
+seaborn
+matplotlib
