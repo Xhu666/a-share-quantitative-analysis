@@ -1,5 +1,7 @@
 # A-Share Quantitative Analysis
 
+[中文文档](README_zh.md)
+
 A quantitative stock screening and ETF analysis system for China A-share market. Built with Python, powered by [BaoStock](http://baostock.com/) and [AkShare](https://github.com/akfamily/akshare) data sources, with local SQLite storage.
 
 ## Features
